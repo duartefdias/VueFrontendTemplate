@@ -2,11 +2,11 @@
 
 This template is meant to be used with a full-stack application made up of the following components:
 
-Frontend -> Vue.js
-Backend  -> Node.js
-Database -> MongoDB
+Frontend -> Vue.js  
+Backend  -> Node.js  
+Database -> MongoDB  
 
-Backend template repo:
+Backend template repo:  
 https://github.com/DuarteDx/NodeBackendTemplate
 
 ## Features
