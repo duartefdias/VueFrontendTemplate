@@ -6,6 +6,9 @@ Frontend -> Vue.js
 Backend  -> Node.js
 Database -> MongoDB
 
+Backend template repo:
+https://github.com/DuarteDx/NodeBackendTemplate
+
 ## Features
 
 - Vuex Store for local data management
